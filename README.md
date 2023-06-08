@@ -1,0 +1,2 @@
+# BareVale
+Gurps Campaign
